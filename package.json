@@ -12,5 +12,17 @@
     "express": "^4.17.1",
     "nodemon": "^1.19.4",
     "socket.io": "^2.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suneelam758/TOKU.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "bugs": {
+    "url": "https://github.com/suneelam758/TOKU/issues"
+  },
+  "homepage": "https://github.com/suneelam758/TOKU#readme"
 }
